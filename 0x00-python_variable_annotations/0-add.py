@@ -1,7 +1,7 @@
-#!/usr/bin/env paython3
-'''0. Basic annotations - add'''
+#!/usr/bin/env python3
+""" Module documentation """
 
 
 def add(a: float, b: float) -> float:
-    '''A function takes two floats and return a float'''
+    """Func doc"""
     return a + b
